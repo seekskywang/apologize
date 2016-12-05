@@ -40,33 +40,6 @@
 				<div class="image fit">
 					<a href="detail1.html"><img src="images/4.jpg" alt="" /></a>
 				</div>
-
-			<!-- Column 2 (vertical, horizontal, vertical, horizontal) -->
-				<div class="image fit">
-					<a href="detail1.html"><img src="images/5.jpg" alt="" /></a>
-				</div>
-				<div class="image fit">
-					<a href="detail1.html"><img src="images/6.jpg" alt="" /></a>
-				</div>
-				<div class="image fit">
-					<a href="detail1.html"><img src="images/7.jpg" alt="" /></a>
-				</div>
-				<div class="image fit">
-					<a href="detail1.html"><img src="images/8.jpg" alt="" /></a>
-				
-				<!-- Column 3 (horizontal, vertical, horizontal, vertical) -->
-				<div class="image fit">
-					<a href="detail1.html"><img src="images/9.jpg" alt="" /></a>
-				</div>
-				<div class="image fit">
-					<a href="detail1.html"><img src="images/10.jpg" alt="" /></a>
-				</div>
-				<div class="image fit">
-					<a href="detail1.html"><img src="images/11.jpg" alt="" /></a>
-				</div>
-				<div class="image fit">
-					<a href="detail1.html"><img src="images/12.jpg" alt="" /></a>
-				</div>
 				
 
 		</div>
