@@ -41,7 +41,17 @@
 					<a href="detail1.html"><img src="images/4.jpg" alt="" /></a>
 				</div>
 				
-
+			<!-- Column 2 (horizontal, vertical, horizontal, vertical) -->
+				<div class="image fit">
+					<a href="detail1.html"><img src="images/pls.png" alt="" /></a>
+				</div>
+				<div class="image fit">
+					<a href="detail1.html"><img src="images/cute.png" alt="" /></a>
+				</div>
+				<div class="image fit">
+					<a href="detail1.html"><img src="images/mon.jpg" alt="" /></a>
+				</div>
+				
 		</div>
 	</div>
 </div>
